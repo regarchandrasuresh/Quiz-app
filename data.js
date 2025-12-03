@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "1.What is capital of india??",
+      option1: "Jaipur",
+      option2: "Ajmer",
+      option3: "Bhilwara",
+      option4: "New Delhi",
+      ans: 4,
+    },
+    {
+      question: "Which city is the known as pinkcity?",
+      option1: "Jaipur",
+      option2: "Jodhpur",
+      option3: "Pali",
+      option4: "J&k",
+      ans: 1,
+    },
+    {
+      question: "What is full form of rom?",
+      option1: "Read on Moniter",
+      option2: "Read Of Mouse",
+      option3: "Read Only Memory",
+      option4: "Read Or Moniter",
+      ans: 3,
+    },
+    {
+      question: "A computer cannot BOOT if it does not have the?",
+      option1: "Application Software",
+      option2: "Internet",
+      option3: "Operating System",
+      option4: "Mouse",
+      ans: 3,
+    },
+    {
+      question: "First page of Website is termed as?",
+      option1: "Index Page",
+      option2: "Homepage",
+      option3: "Sitemap",
+      option4: "Pen Drive",
+      ans: 2,
+    },
+  ];
